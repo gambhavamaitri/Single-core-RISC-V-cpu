@@ -16,5 +16,4 @@ Designed and implemented a 32-bit RISC-V processor in Verilog HDL supporting cor
 ## Tools Used
 
 * Verilog HDL
-* FPGA Development Tools
-* Simulation Environment (ModelSim/Vivado/XSIM)
+* Simulation Environment(Modelsim)
